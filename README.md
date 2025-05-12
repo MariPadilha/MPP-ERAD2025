@@ -32,3 +32,12 @@ Para mais informações, acesse o site oficial da ERAD-RS 2025: [https://cradrs.
 ---
 
 ## 📁 Problem set e resoluções
+
+### 🧩 Problem set
+- [A](https://github.com/MariPadilha/MPP-ERAD2025/tree/problemSet/A)
+- [B](https://github.com/MariPadilha/MPP-ERAD2025/tree/problemSet/B)
+- [C](https://github.com/MariPadilha/MPP-ERAD2025/tree/problemSet/C)
+
+### 🧠 Soluções
+- [A](https://github.com/MariPadilha/MPP-ERAD2025/tree/solucoes/A)
+- [B](https://github.com/MariPadilha/MPP-ERAD2025/tree/solucoes/B)
