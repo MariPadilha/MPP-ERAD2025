@@ -34,6 +34,9 @@ Para mais informações, acesse o site oficial da ERAD-RS 2025: [https://cradrs.
 ## 📁 Problem set e resoluções
 
 ### 🧩 Problem set
+- [Clique Aqui](https://github.com/MariPadilha/MPP-ERAD2025/blob/problemSet/Caderno_de_Problemas_ERAD_2025.pdf)
+
+### 🧩 Código sequencial
 - [A](https://github.com/MariPadilha/MPP-ERAD2025/tree/problemSet/A)
 - [B](https://github.com/MariPadilha/MPP-ERAD2025/tree/problemSet/B)
 - [C](https://github.com/MariPadilha/MPP-ERAD2025/tree/problemSet/C)
